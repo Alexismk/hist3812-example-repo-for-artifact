@@ -1,6 +1,5 @@
 # Object Biography
 
-# Object Biography 
 
 ## Andy Warhol, Brillo Soap Pads Boxes, 1964
 Category:  European and American Painting, Sculpture, and Decorative Arts
