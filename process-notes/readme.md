@@ -7,9 +7,13 @@ Below I will detail my journey experimenting with 3D modeling for the first time
 
 While initially trying to think about a topic and choose an artifact to work on, I was intimidated because I had a very loose concept of what this project would entail, and I knew that I would be working on this subject for the entirety of the course. After two failed attempts to attend two different museums, with no main artefact in mind, a specific idea occurred to me. Largely inspired by our discussions in class regarding artworks and reproductions, as well as Bruno Latour & Adam Lowe’s paper, “The migration of the aura or how to explore the original through its fac similes”, I decided to venture out to the National Gallery of Canada and scan their sculpture of Andy Warhol’s, “Brillo Soap Pad Boxes” in order to create my 3D model.
 I chose to scan Warhol’s sculpture for two main reasons. 
+
+
 First, I knew I wanted an object that would be easier to scan as to prevent problems down the line when it came to rendering the 3D model. For that reason, I wanted a model that was small enough so that I could get images from all angles. 
 After some initial experimentation with 3D modeling programs, I knew that I would most likely have to photo mask my images in order to remove background objects. Therefore, and object with a simple form would make the photo shopping process easier. 
 Lastly, keeping in mind that 3D programs do not recommend images that have poor lighting, I wanted to choice and object that did not have an glass encasing around it, and that had bright lighting all around. In my mind, “Brillo Soap Pad Boxes” was perfect because it was positioned in the center of the room, so I could walk around it fully, it has straight edges all around it, making photo masking very easy, and it was brightly lit under gallery lighting.  
+
+
 I thought that Andy Warhol’s “Brillo Soap Pad Boxes” would make a fascinating subject because of the nature of the sculpture, and the controversy that surrounds it. The sculpture is essentially a copy of commercial packaging and because of this, its value as art has been disputed for years. More on this will be detailed in the Paradata.
 
 
